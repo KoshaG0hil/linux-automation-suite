@@ -32,8 +32,8 @@ linux-automation-suite/
 
 ## Progress
 
-- [x] Week 1 — Environment setup, SSH, UFW, Git
-- [ ] Week 2 — Disk check and log cleanup scripts
+- [x] Week 1 — Environment setup, SSH, UFW, Git- 
+- [x] Week 2 — Disk check and log cleanup scripts
 - [ ] Week 3 — User audit and backup scripts
 - [ ] Week 4 — Cron, systemd timers, Slack alerts
 - [ ] Week 5 — Testing and documentation
