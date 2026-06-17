@@ -41,13 +41,6 @@ linux-automation-suite/
 - Git installed
 - curl installed
 
-### Installation
-Clone the repository:
-git clone git@github.com:KoshaG0hil/linux-automation-suite.git
-
-Navigate into the project:
-cd linux-automation-suite
-
 ### Configuration
 Create a .env file in your home directory:
 SLACK_WEBHOOK=your_slack_webhook_url
